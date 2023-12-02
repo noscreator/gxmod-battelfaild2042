@@ -1,6 +1,6 @@
 {
     "name": "Battelfaild 2042",
-    "description": "MOD DESCRIPTION GOES HERE",
+    "description": "Mod For Gamers",
     "developer":
     {
         "name": "NOS CREATOR"
@@ -19,8 +19,7 @@
             [
                 "music/track_1.mp3",
                 "music/track_2.mp3",
-                "music/track_3.mp3",
-                "music/track_4.mp3"
+                "music/track_3.mp3"
             ],
             "browser_sounds":
             {
@@ -133,30 +132,30 @@
                 {
                     "gx_accent":
                     {
-                        "h": 85,
+                        "h": 350,
                         "s": 100,
-                        "l": 72
+                        "l": 50
                     },
                     "gx_secondary_base":
                     {
-                        "h": 272,
-                        "s": 64,
-                        "l": 16
+                        "h": 350,
+                        "s": 50,
+                        "l": 25
                     }
                 },
                 "light":
                 {
                     "gx_accent":
                     {
-                        "h": 112,
-                        "s": 80,
-                        "l": 44
+                        "h": 350,
+                        "s": 100,
+                        "l": 50
                     },
                     "gx_secondary_base":
                     {
-                        "h": 272,
-                        "s": 32,
-                        "l": 16
+                        "h": 350,
+                        "s": 50,
+                        "l": 25
                     }
                 }
             },
@@ -166,14 +165,13 @@
                 {   
                     "image": "wallpaper/dark.png",
                     "text_color": "#FFFFFF",
-                    "text_shadow": "#757575"
+                    "text_shadow": "#000000"
                 },
                 "light":
                 {
-                    "image": "wallpaper/video.webm",
-                    "first_frame": "wallpaper/first_frame.jpeg",
-                    "text_color": "#FFFFFF",
-                    "text_shadow": "#0B000E"
+                    "image": "wallpaper/light.png",
+                    "text_color": "#000000",
+                    "text_shadow": "#FFFFFF"
                 }
             }
         },
